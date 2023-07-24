@@ -1,0 +1,3 @@
+Best Case: O(n) (The list is already sorted, and no swaps are needed.)
+Average Case: O(n^2) (On average, it will have to make n^2/4 comparisons and n^2/4 swaps.)
+Worst Case: O(n^2) (When the list is in reverse order or nearly sorted, it will have to make n^2/2 comparisons and n^2/2 swaps.)
