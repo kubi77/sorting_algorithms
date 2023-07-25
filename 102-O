@@ -1,0 +1,3 @@
+Best Case: O(n + k) (When the range of input values is small and the array is already sorted.)
+Average Case: O(n + k) (On average, it will have to iterate through the array once to count occurrences and once to build the sorted array.)
+Worst Case: O(n + k) (When the range of input values is large, causing the counting array to be larger, and the array is in reverse order.)

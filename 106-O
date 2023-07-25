@@ -1,0 +1,7 @@
+Best Case: O(n*log^2 n) (The best case occurs when the array is already sorted, but the sorting steps still need to be performed.)
+Average Case: O(nlog^2 n) (On average, Bitonic Sort will perform nlog^2 n comparisons and data movements.)
+Worst Case: O(nlog^2 n) (Bitonic Sort always takes O(nlog^2 n) comparisons and data movements to sort an array of size n.)
+
+
+
+

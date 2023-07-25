@@ -1,0 +1,7 @@
+Best Case: O(n*log n) (The best case occurs when the array is already sorted, but Merge Sort will still perform the merging step.)
+Average Case: O(nlog n) (On average, Merge Sort will perform nlog n comparisons and data movements.)
+Worst Case: O(nlog n) (When the array is in reverse order or unsorted, Merge Sort will perform nlog n comparisons and data movements.)
+
+
+
+

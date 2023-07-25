@@ -1,0 +1,3 @@
+Best Case: O(n*log n) (The best case occurs when the array is already a valid heap, and no swaps are needed during heapify.)
+Average Case: O(nlog n) (On average, Heap Sort will perform nlog n comparisons and data movements.)
+Worst Case: O(nlog n) (When the array is in reverse order or unsorted, Heap Sort will perform nlog n comparisons and data movements.)
